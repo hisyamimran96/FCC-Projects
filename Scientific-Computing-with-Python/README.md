@@ -15,4 +15,7 @@ My certification of completion can be viewed here:
 
 <a href="https://www.freecodecamp.org/certification/hisyam_imran/scientific-computing-with-python-v7">Scientific Computing with Python Certificate</a> 
 
+![image](https://user-images.githubusercontent.com/93010964/214933373-bcbfa5c9-9a69-4c06-b10d-3e225c1502ca.png)
+
+
 
