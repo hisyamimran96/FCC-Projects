@@ -11,3 +11,5 @@ The completion of these 5 projects certified me with the Developer Certification
 ## Certification
 My certification of completion can be viewed here:
 <a href = 'https://www.freecodecamp.org/certification/hisyam_imran/data-analysis-with-python-v7'> FreeCodeCamp Data Analysis with Python </a>
+
+<img src ='https://github.com/hisyamimran96/FCC-Projects/blob/main/Data%20Analysis%20with%20Python/FreeCodeCamp%20Data%20Analysis%20with%20Python.png?raw=true'>
